@@ -72,5 +72,3 @@ Zo:      https://f4llsn0den.zo.computer
 ```
 
 ---
-
-_Built on Zo Computer // 2026-03-24_
