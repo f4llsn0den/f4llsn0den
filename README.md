@@ -40,9 +40,9 @@ A developer built on the Linux kernel. Currently bootstrapping on localhost, gri
 
 | Repo | Description | Status |
 |------|-------------|--------|
-| `portfolio` | This very portfolio — matrix-themed | Live |
-| `car-importer` | Vehicle data import pipeline | 85% |
-| `car-importer-v2` | Next-gen import system | 40% |
+| [`portfolio`](https://github.com/f4llsn0den/f4llsn0den) | This very portfolio — matrix-themed | Live |
+| [`car-importer`](https://github.com/f4llsn0den/car-importer) | Vehicle data import pipeline | 85% |
+| [`car-importer-v2`](https://github.com/f4llsn0den/car-importer-v2) | Next-gen import system | 40% |
 
 ---
 
